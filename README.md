@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Welcome to the "Myglass Shop"</h1>
+<h1 align="center" id="title">Welcome to the "Gamestack"</h1>
 
-<h2>🚀 Demo: https://myglassshop.vercel.app/</h2>
+<h2>🚀 Demo: https://gamestack.vercel.app/</h2>
 
 <p align="center">
     <img src="https://i.ibb.co/cFz3rnt/React-Chakra-Game-Browser.jpg" alt="project-screenshot">
