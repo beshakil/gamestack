@@ -3,7 +3,7 @@
 <h2>🚀 Demo: https://myglassshop.vercel.app/</h2>
 
 <p align="center">
-    <img src="https://i.ibb.co/ydb4XV3/React-Chakra-Game-Browser.png" alt="project-screenshot">
+    <img src="https://i.ibb.co/cFz3rnt/React-Chakra-Game-Browser.jpg" alt="project-screenshot">
 </p>
 
 ### Introduction
